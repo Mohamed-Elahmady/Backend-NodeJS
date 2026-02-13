@@ -1,0 +1,36 @@
+a{
+    color:red;
+    text-decoration: none;
+}
+
+a:hover{
+    color:aqua;
+}
+
+a:visited{
+    color:orange;
+}
+
+.check:checked{
+    accent-color: green;
+}
+
+.username:focus{
+    outline: none;
+    border: 2px solid green;
+}
+
+.username::placeholder{
+    color: green;
+}
+
+.username:focus::placeholder{
+    color: red;
+}
+
+.text::first-letter{
+    font-size: 20px;
+    color: green;
+}
+
+    
