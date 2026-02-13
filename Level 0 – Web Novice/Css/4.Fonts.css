@@ -1,0 +1,17 @@
+/* h1 : 32Px */
+/* h2 : 30Px */
+/* h3 : 28Px */
+/* h4 : 26Px */
+/* h5 : 24Px */
+/* h6 : 22Px */
+/* p : 16Px */
+div p{
+    color: green;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    /* line-height: 30px;
+    letter-spacing: 22px; */
+    text-align: center ;
+    direction:unset;
+}
