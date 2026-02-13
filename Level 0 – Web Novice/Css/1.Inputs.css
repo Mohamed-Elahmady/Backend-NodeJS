@@ -1,0 +1,21 @@
+/* input{
+    background-color: red; 
+} */
+
+input[type="email"]{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+input[placeholder="Enter your password"]{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 3px;
+}
+
+input[value ="Submit"]{
+    background-color: aquamarine;
+    color: white;
+    border-radius: 5px;
+}
