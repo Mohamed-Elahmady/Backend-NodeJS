@@ -1,0 +1,14 @@
+.GL{
+    text-decoration: underline;
+    color: red;
+    text-decoration-color: green;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+    cursor:grab;
+}
+
+.GL:hover{
+    text-decoration: none;
+    color:blue;
+    font-size: 20px;
+}
