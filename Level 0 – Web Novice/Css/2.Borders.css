@@ -1,0 +1,9 @@
+.Border {
+    height: 100px;
+    width: 60px;
+    border-color: black;
+    border-width: 2px; 
+    border-style: solid ;
+    border-radius: 10px;
+    /* border: 2px dashed black; */
+}
