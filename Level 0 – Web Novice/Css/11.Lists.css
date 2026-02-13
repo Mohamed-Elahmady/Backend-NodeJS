@@ -1,0 +1,10 @@
+.ul{
+    /*list-style-type:disc;*/ /* disc, circle, square, none, decimal */
+    /*list-style-position:  inside;*/ /* inside, outside */
+    /* list-style-image: url(media/zoro.png); */
+    list-style : inside disc url(media/zoro.png);
+    background-color: aqua;
+}
+ul li{
+    background-color: red;
+}
