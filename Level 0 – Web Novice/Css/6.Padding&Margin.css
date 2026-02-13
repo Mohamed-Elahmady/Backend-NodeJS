@@ -1,0 +1,52 @@
+.pm {
+    border: 3px solid black;
+
+    /* Padding dosen't support negative values */
+    /* Margin support negative values */
+
+    /* margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: -60px; */
+
+    /*      trbl      */
+    /* margin: 20px; */
+    /*      tb   rl      */
+    /* margin: 20px 5px; */
+    /*      t     r    b    l      */
+    /* margin: 20px 20px 20px 60px; */
+
+
+    /* padding-top: 20px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-left: 60px; */
+
+
+    /*       trbl       */
+    /* padding: 20px; */
+    /*       tb   rl       */
+    /* padding: 20px 5px; */
+    /*       t    r    b    l       */
+    /* padding: 20px 20px 20px 60px; */
+
+
+    /*  to center the div */
+    width: 50%;
+    /* margin: auto; */
+    /* margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 35%;
+    margin-bottom: 35%; */
+}
+
+.pm p {
+    text-align: center;
+}
+
+
+/* Reset all elements to remove default margin and padding */
+*{
+    margin: 0;
+    padding: 0;
+} 
